@@ -57,13 +57,13 @@ Még nincs :)
 
 ## ✌️ Hozzájárulás
 
-Ha van egy ötleted, vagy kijavítanál egy hibát, nyiss egy [Issuet](./issues) vagy [Pull requestet](./pulls)
+Ha van egy ötleted, vagy kijavítanál egy hibát, nyiss egy [Issuet](https://github.com/davidfegyver/idojarasdoboz/issues) vagy [Pull requestet](https://github.com/davidfegyver/idojarasdoboz/pulls)
 
 ## 🎉 Köszi, hogy végigolvastad
 
-Csatlakozz a Discord szerveremre ha akarsz :) https://discord.gg/Sa4KDQTA2k
+Csatlakozz a Discord szerveremre ha akarsz :) 
 
-
+https://discord.gg/Sa4KDQTA2k
 
 ## 📝 MIT LICENSE
 
