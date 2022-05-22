@@ -1,0 +1,6 @@
+Hii
+0000.ad4 - clear
+0001.ad4 - thunderstorm
+0002.ad4 - rain
+0003.ad4 - snow
+0004.ad4 - atmosphere - wind
