@@ -13,7 +13,7 @@
 
 ---
 
-## 📹 [Bemutató videó](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+## 📹 [Bemutató videó](https://youtu.be/b7bIbWTGOUk)
 ## 👨‍🔧 Ezekkel építve:
 
 - [Wemos D1 mini](https://www.wemos.cc/en/latest/d1/d1_mini.html)
